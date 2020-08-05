@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my PASS Summit 2020 presentation
 - 🌱 I’m currently learning more about DevOps
-- 🤝 I’m looking to collaborate with GTSSUG
+- 🤝 I’m looking to collaborate with anybody interesting on DevOps and Databases (any)
 - 💬 Ask me about anything about Cloud computing or DevOps
 - 📫 How to reach me: By email [crobles@dbamastery.com](crobles@dbamastery.com) or twitter [@dbamastery](https://twitter.com/dbamastery)
 
