@@ -5,7 +5,7 @@
 > 
 > He has diverse experience as a Consultant, DBA and DBA Manager. He is currently working as a Solution Architect, helping customers to solve software/infrastructure problems in their on-premise or cloud environments.
 > 
-> Speaker, author, blogger, mentor, [Guatemala SQL User group leader](www.facebook.com/groups/gtssug/). If you don’t find him chatting with friends about geek stuff, he will be enjoying life with his family or exploring the beautiful outdoors of Colorado.
+> Speaker, author, blogger, mentor, [Guatemala SQL User group leader](@gtssug). If you don’t find him chatting with friends about geek stuff, he will be enjoying life with his family or exploring the beautiful outdoors of Colorado.
 
 
 - 🔭 I’m currently working on my PASS Summit 2020 presentation
