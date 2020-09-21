@@ -1,5 +1,13 @@
 ### Hello there! 👋
 
+
+> Carlos Robles is a Microsoft Data Platform MVP, a Friend of Redgate, and a technology lover. He has worked in the database management field on multiple platforms for over ten years in various industries.
+> 
+> He has diverse experience as a Consultant, DBA and DBA Manager. He is currently working as a Solution Architect, helping customers to solve software/infrastructure problems in their on-premise or cloud environments.
+> 
+> Speaker, author, blogger, mentor, Guatemala SQL User group leader. If you don’t find him chatting with friends about geek stuff, he will be enjoying life with his family or exploring the beautiful outdoors of Colorado.
+
+
 - 🔭 I’m currently working on my PASS Summit 2020 presentation
 - 🌱 I’m currently learning more about DevOps
 - 🤝 I’m looking to collaborate with anybody interesting on DevOps and Databases (any)
