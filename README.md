@@ -8,7 +8,7 @@
 > Speaker, author, blogger, mentor, Guatemala SQL User group leader. If you don’t find him chatting with friends about geek stuff, he will be enjoying life with his family or exploring the beautiful outdoors of Colorado.
 
 
-- 🔭 I’m currently working on my PASS Summit 2020 presentation
+- 🔭 I’m currently working on my next webinars for Canonical and Redgate
 - 🌱 I’m currently learning more about DevOps, specifically IaC
 - 🤝 I’m looking to collaborate with anybody interested on a DevOps, Cloud or development project
 - 💬 Ask me about anything about Cloud computing, Data platform or DevOps
