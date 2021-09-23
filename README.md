@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 
-> Carlos Robles is a Solutions Architect at @aws. Also a Friend of Redgate, and a former Microsoft MVP but more than anything a technology lover. He has worked in the database management field on multiple platforms for over ten years in various industries.
+> Carlos Robles is a Solutions Architect at [AWS](https://github.com/aws). Also a Friend of Redgate, and a former Microsoft MVP but more than anything a technology lover. He has worked in the database management field on multiple platforms for over ten years in various industries.
 > 
 > He has diverse experience as a Consultant, DBA and DBA Manager. He is currently working as a Solution Architect, helping customers to solve software/infrastructure problems in their on-premise or cloud environments.
 > 
